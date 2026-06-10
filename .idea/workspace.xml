@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f01bffbb-cac2-4873-a516-6b2c6a5df189" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Agent_Study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LangChain/.idea/LangChain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tool-test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01hello-langchain.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02tool-file-read.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/03node-exec.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/04all-tools.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/05mini-cursor.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781083837783</updated>
-      <workItem from="1781083839347" duration="175000" />
+      <workItem from="1781083839347" duration="282000" />
     </task>
     <servers />
   </component>
